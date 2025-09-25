@@ -73,10 +73,9 @@ The API will run at: http://127.0.0.1:8000
 
 ## 📜 License
 
-© 2025 **Dauntektif** 🔍🌱  
-All Rights Reserved ⚖️  
+© 2025 **DaunTektif** 🔍🌱 All Rights Reserved 
 
-This code is the **intellectual property** of **Dauntektif**.  
+This code is the **intellectual property** of **DaunTektif**.  
 
 ✅ Permitted use:  
 - Educational and research purposes 📚🔬  
@@ -90,6 +89,6 @@ This code is the **intellectual property** of **Dauntektif**.
 
 ## 👨‍💻 Author & Contact
 
-Developed with ❤️ by **Dauntektif**  
+Developed with ❤️ by **DaunTektif**  
 
 📧 Email: [depsaaa0823@gmail.com]  
