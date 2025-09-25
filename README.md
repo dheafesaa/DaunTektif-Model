@@ -53,7 +53,6 @@ The API will run at: http://127.0.0.1:8000
 ---
 
 ## 📤 Usage
-## 📤 Usage
 
 ### Endpoint: `/predict`
 
@@ -72,8 +71,25 @@ The API will run at: http://127.0.0.1:8000
 
 ---
 
-## © License
-Copyright © 2025 **Dauntektif**.  
-All rights reserved.  
-This code is the intellectual property of **Dauntektif** and may only be used for official purposes related to the Dauntektif application.  
-Any reproduction, distribution, or modification without prior written permission is strictly prohibited.
+## 📜 License
+
+© 2025 **Dauntektif** 🔍🌱  
+All Rights Reserved ⚖️  
+
+This code is the **intellectual property** of **Dauntektif**.  
+
+✅ Permitted use:  
+- Educational and research purposes 📚🔬  
+- Personal learning and experimentation 🧑‍💻  
+
+❌ Prohibited use:  
+- Commercial usage without prior written permission 💰🚫  
+- Redistribution, reproduction, or modification for profit 🛑  
+
+---
+
+## 👨‍💻 Author & Contact
+
+Developed with ❤️ by **Dauntektif**  
+
+📧 Email: [depsaaa0823@gmail.com]  
